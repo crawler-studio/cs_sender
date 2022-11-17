@@ -1,0 +1,7 @@
+
+build/
+*.egg-info
+setup.py
+tests
+
+dist/
