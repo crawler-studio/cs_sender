@@ -2,12 +2,12 @@
 scrapy extension for spider monitor web framework cralwer-studio
 
 
-## Install
+## 安装
 ```
 pip install cs-sender
 ```
 
-## Usage 
+## 使用 
 Config following settings to settings.py of scrapy project
 ```
 CS_BACKEND = http://localhost:8000
